@@ -7,9 +7,9 @@ Program to transform texts using a shift/Caesar cipher in the Latin Alphabet (a-
 1. clone this repository
 2. navigate to this repository in terminal
 3. run `python Shift_Cipher.py [OPTIONS]`
-	- -e		encryption mode, followed by `<file_in> <key> <file_out>`
-	- -d		decryption mode, followed by `<file_in> <key> <file_out>`
-	- -c		cracking mode, followed by `<file_in> -t <threshold>`
+   - -e		encryption mode, followed by `<file_in> <key> <file_out>`
+   - -d		decryption mode, followed by `<file_in> <key> <file_out>`
+   - -c		cracking mode, followed by `<file_in> -t <threshold>`
 4. profit
 
 ### Examples
